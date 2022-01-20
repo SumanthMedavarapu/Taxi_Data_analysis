@@ -8,7 +8,7 @@ In this project, will be focusing mainly on the below problem statements
 •	Fares for a ride are planned based on the most common distance travelled by most of passengers 
 
 Hence could help the company to understand and plan their strategies better and earn more profit than it earns at present
-Technology Stack:
+# Technology Stack:
 1)	Dataflow GCP(Data processing)
 2)	BigQuery (Data Transformation)
 3)	GCP ML (Predictive Analytics)
@@ -16,10 +16,10 @@ Technology Stack:
 Architecture:
 
  
-Process:
+# Process:
 
 •	I will be ingesting batch and stream data into BigQuery tables using Dataflow job and perform aggregations and joins etc. next will visualize using various charts and perform ML algorithms (Linear Regression, Clustering, classification etc.) to predict Fares etc.
-Steps:
+# Steps:
 
 •	Created Cloud storage bucket
 
